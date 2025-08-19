@@ -24,6 +24,7 @@ const sidebars = {
       items: [
   'documentation-tooling/index',
   'documentation-tooling/astronomer-documentation-audit',
+
         'tutorial-basics/create-a-document',
         'tutorial-basics/create-a-blog-post',
         'tutorial-basics/deploy-your-site',
