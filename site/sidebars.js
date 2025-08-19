@@ -23,7 +23,8 @@ const sidebars = {
       label: 'Portfolio',
       items: [
   'documentation-tooling/index',
-  'astronomer-doc-audit',
+  'documentation-tooling/astronomer-doc-audit',
+
 
         'tutorial-basics/create-a-document',
         'tutorial-basics/create-a-blog-post',
