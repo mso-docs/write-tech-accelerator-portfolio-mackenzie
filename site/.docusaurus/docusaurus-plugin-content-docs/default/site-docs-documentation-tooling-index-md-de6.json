@@ -1,0 +1,24 @@
+{
+  "id": "documentation-tooling/index",
+  "title": "Documentation Tooling",
+  "description": "This is a placeholder for your documentation tooling portfolio page. Add your content here!",
+  "source": "@site/docs/documentation-tooling/index.md",
+  "sourceDirName": "documentation-tooling",
+  "slug": "/documentation-tooling/",
+  "permalink": "/docs/documentation-tooling/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation-tooling/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/docs/tutorial-basics/create-a-document"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/markdown-page",
+  "source": "@site/src/pages/markdown-page.md",
+  "title": "Mackenzie.TechDocs",
+  "description": "Example page test using Markdown.",
+  "frontMatter": {
+    "title": "Mackenzie.TechDocs"
+  },
+  "unlisted": false
+}
