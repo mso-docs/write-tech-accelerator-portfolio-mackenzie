@@ -1,0 +1,54 @@
+{
+  "id": "documentation-tooling/astronomer-documentation-audit",
+  "title": "Astronomer Documentation Audit (Astro, Astro CLI, Software)",
+  "description": "Findings, diagrams, and recommendations from a focused review of Astronomer docs (Astro, Astro CLI, and Software), including deploy flows and onboarding.",
+  "source": "@site/docs/documentation-tooling/astronomer-audit.md",
+  "sourceDirName": "documentation-tooling",
+  "slug": "/documentation-tooling/astronomer-documentation-audit",
+  "permalink": "/docs/documentation-tooling/astronomer-documentation-audit",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation-tooling/astronomer-audit.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "astronomer",
+      "permalink": "/docs/tags/astronomer"
+    },
+    {
+      "inline": true,
+      "label": "astro",
+      "permalink": "/docs/tags/astro"
+    },
+    {
+      "inline": true,
+      "label": "airflow",
+      "permalink": "/docs/tags/airflow"
+    },
+    {
+      "inline": true,
+      "label": "documentation",
+      "permalink": "/docs/tags/documentation"
+    },
+    {
+      "inline": true,
+      "label": "audit",
+      "permalink": "/docs/tags/audit"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "id": "astronomer-documentation-audit",
+    "title": "Astronomer Documentation Audit (Astro, Astro CLI, Software)",
+    "description": "Findings, diagrams, and recommendations from a focused review of Astronomer docs (Astro, Astro CLI, and Software), including deploy flows and onboarding.",
+    "sidebar_position": 10,
+    "tags": [
+      "astronomer",
+      "astro",
+      "airflow",
+      "documentation",
+      "audit"
+    ]
+  }
+}
