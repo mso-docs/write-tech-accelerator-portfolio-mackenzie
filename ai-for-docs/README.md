@@ -18,6 +18,6 @@ This project highlights the creation of an AI model card and the application of 
 
 ## Resources  
 - [Model Cards for Model Reporting](https://modelcards.withgoogle.com/about)  
-- [Project Source Code - COMING SOON! ](URL)
+- [Project Source Code - COMING SOON!](URL)
 
 ---
