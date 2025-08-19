@@ -1,5 +1,5 @@
 ---
-id: astronomer-documentation-audit
+id: astronomer-audit
 title: Astronomer Documentation Audit (Astro, Astro CLI, Software)
 description: Findings, diagrams, and recommendations from a focused review of Astronomer docs (Astro, Astro CLI, and Software), including deploy flows and onboarding.
 sidebar_position: 10

@@ -93,7 +93,7 @@ const config = {
             label: 'Portfolio Docs',
           },
           {to: '/docs/documentation-tooling', label: 'Documentation Tooling', position: 'left'},
-          {to: '/docs/astronomer-documentation-audit', label: 'Astronomer Audit', position: 'left'},
+          {to: '/docs/documentation-tooling/astronomer-audit', label: 'Astronomer Audit', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/portfolio', label: 'Portfolio Page', position: 'left'},
           {
