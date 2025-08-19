@@ -22,8 +22,8 @@ const sidebars = {
       type: 'category',
       label: 'Portfolio',
       items: [
-    'documentation-tooling/index',
-    'astronomer-documentation-audit',
+  'documentation-tooling/index',
+  'documentation-tooling/astronomer-audit',
         'tutorial-basics/create-a-document',
         'tutorial-basics/create-a-blog-post',
         'tutorial-basics/deploy-your-site',
